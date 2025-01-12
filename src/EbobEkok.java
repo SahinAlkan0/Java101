@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EbobEkok {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
-        int ebob = 1, ekok = 1, n1, n2, i = 1, k = 1;
+        int ebob = 1, ekok , n1, n2, i = 1, k = 1;
 
         System.out.print("İlk Sayıyı Giriniz = ");
         n1 = inp.nextInt();
